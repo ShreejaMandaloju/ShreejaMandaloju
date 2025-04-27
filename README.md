@@ -3,7 +3,7 @@
 🧠 Computer Science student at Sridevi Women's Engineering College.<br/>
 🔷 I have successfully completed an AICTE internship by TechSaksham implemented by Edunent Foundation with initiative CSR of Microsoft & SAP, during which I developed a Personal Fitness Tracker using Python, a machine learning-based web application that predicts calorie burn based on user inputs like age, BMI, and heart rate.<br/>
 🧩 Participated in Smart India Hackathon (SIH) 2024, developing a Blockchain based Voting System.<br/>
-🧩 Participated in Flipkart Girls Wanna Code (GWC) 2025, a competitive coding program by Flipkart for women in tech.
+🧩 Participated in Flipkart Girls Wanna Code 6.O (GWC) 2025, a competitive coding program by Flipkart for women in tech.
 
 
 # 💻 Tech Stack:
