@@ -1,9 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shreeja Mandaloju</h1>
 <h3 align="center">✨ Final-Year Computer Science Student | Passionate Developer | Tech Explorer ✨</h3>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShreejaMandaloju&label=Profile%20views&color=0e75b6&style=flat" alt="shreejamandaloju" />
-</p>
 
 ---
 
@@ -65,6 +62,12 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ShreejaMandaloju&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Shreeja's GitHub Stats" />
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShreejaMandaloju&theme=transparent&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreejaMandaloju&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ShreejaMandaloju&label=Profile%20views&color=0e75b6&style=flat" alt="shreejamandaloju" />
 </p>
 
 ---
