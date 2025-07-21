@@ -1,6 +1,6 @@
 <!-- Profile Header -->
 <h1 align="center">Hi 👋, I'm Shreeja Mandaloju</h1>
-<h3 align="center">✨ Final-Year Computer Science Student | Passionate Frontend Developer | Tech Explorer ✨</h3>
+<h3 align="center">✨ Final-Year Computer Science Student | Passionate Developer | Tech Explorer ✨</h3>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ShreejaMandaloju&label=Profile%20views&color=0e75b6&style=flat" alt="shreejamandaloju" />
 </p>
@@ -9,10 +9,10 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 Final-year **Computer Science student** at **Sridevi Women's Engineering College**.
-- 🤖 Interned at **TechSaksham** (AICTE initiative by Microsoft & SAP, implemented by Edunet Foundation) where I developed a **Personal Fitness Tracker** using Python and Machine Learning — predicts calorie burn based on user input (age, BMI, heart rate).
+- 🎓 Final-year ***Computer Science student*** at **Sridevi Women's Engineering College**.
+- 🤖 Interned at **TechSaksham** *(AICTE initiative by **Microsoft & SAP**, implemented by Edunet Foundation)* where I developed a **Personal Fitness Tracker** using Python and Machine Learning — predicts calorie burn based on user input (age, BMI, heart rate).
 - 💡 Participated in **Smart India Hackathon (SIH) 2024**.
-- 💡 Participated in **Flipkart Girls Wanna Code (GWC 6.0) 2025**, a competitive coding program for women in tech.
+- 💡 Participated in ***Flipkart Girls Wanna Code (GWC 6.0) 2025***, a competitive coding program for women in tech.
 
 ---
 
@@ -68,9 +68,4 @@
 </p>
 
 ---
-
-## 🌟 Visitors Count
-
-[![](https://visitcount.itsvg.in/api?id=ShreejaMandaloju&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
