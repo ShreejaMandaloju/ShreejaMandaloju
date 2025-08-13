@@ -32,7 +32,7 @@
 <div align="center"> 
   <h2 align="center">LeetCode Info</h2>  
   <p align="center">
-    <a href="https://leetcode.com/YOUR_USERNAME/" target="_blank">
+    <a href="https://leetcode.com/ShreejaMandaloju/" target="_blank">
       <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
     </a>
   </p>
