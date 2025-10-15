@@ -33,7 +33,7 @@
   <p align="center"> 
     <!-- 50 Days Badge -->
     <a href="https://leetcode.com/ShreejaMandaloju/" target="_blank">
-      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2025-50.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
+      <img align="center" src="https://assets.leetcode.com/static_assets/marketing/2024-50.gif" alt="LeetCode 50 Days Badge" height="200" width="200" />
     </a>
     <!-- 100 Days Badge -->
     <a href="https://leetcode.com/ShreejaMandaloju/" target="_blank">
