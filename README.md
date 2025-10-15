@@ -28,9 +28,6 @@
 </p>
 
 ---
-<p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ShreejaMandaloju&animated=true&filter=Daily%20Badges" alt="ShreejaMandaloju's LeetCode Streak Badges" />
-</p>
 
 <div align="center"> <h2 align="center">LeetCode Info</h2>
   <p align="center"> 
