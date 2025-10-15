@@ -30,9 +30,6 @@
 ---
 
 <div align="center"> <h2 align="center">LeetCode Info</h2>
-  <p align="center">
-  <img src="https://leetcode-badge-showcase.vercel.app/api?username=ShreejaMandaloju&animated=true&filter=Daily%20Badges" alt="ShreejaMandaloju's LeetCode Streak Badges" />
-  </p>
   <p align="center"> 
     <!-- 50 Days Badge -->
     <a href="https://leetcode.com/ShreejaMandaloju/" target="_blank">
