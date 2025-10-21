@@ -1,4 +1,6 @@
 <!-- Profile Header -->
+![Banner](https://github.com/user-attachments/assets/8ee6cdea-9b03-41d1-9690-3c49ecdffcd1)
+
 <h1 align="center">Hi 👋, I'm Shreeja Mandaloju</h1>
 <h3 align="center">✨ Final-Year Computer Science Student | Passionate Developer | Tech Explorer ✨</h3>
 
@@ -42,6 +44,23 @@
   </p>
 </div>
 
+---
+
+## 🛠 &nbsp;Tech Stack
+
+![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)&nbsp;
+![Java](https://img.shields.io/badge/-Java-05122A?style=flat&logo=Java&logoColor=FFA518)&nbsp;
+![C](https://img.shields.io/badge/-C-05122A?style=flat&logo=C&logoColor=A8B9CC)&nbsp;
+![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat&logo=HTML5)&nbsp;
+![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat&logo=CSS3&logoColor=1572B6)&nbsp;
+![MySQL](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=mysql&logoColor=4479A1)&nbsp;
+![SQL](https://img.shields.io/badge/-SQL-05122A?style=flat&logo=sqlite&logoColor=003B57)&nbsp;
+![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
+![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
+
+---
+<!--
 ## 💻 Languages & Tools
 
 <p align="left">
@@ -68,11 +87,13 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
+-->
 
 ## 📊 GitHub Stats:
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ShreejaMandaloju&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Shreeja's GitHub Stats" />
+  <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShreejaMandaloju&theme=transparent&hide_border=false" alt="GitHub Streak" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreejaMandaloju&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
 </p>
