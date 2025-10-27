@@ -1,5 +1,5 @@
 <!-- Profile Header -->
-![Banner](https://github.com/user-attachments/assets/8ee6cdea-9b03-41d1-9690-3c49ecdffcd1)
+<!-- ![Banner](https://github.com/user-attachments/assets/8ee6cdea-9b03-41d1-9690-3c49ecdffcd1) -->
 
 <h1 align="center">Hi 👋, I'm Shreeja Mandaloju</h1>
 <h3 align="center">✨ Final-Year Computer Science Student | Passionate Developer | Tech Explorer ✨</h3>
