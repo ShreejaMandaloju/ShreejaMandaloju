@@ -91,10 +91,10 @@
 ## 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ShreejaMandaloju&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Shreeja's GitHub Stats" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api?username=ShreejaMandaloju&theme=transparent&hide_border=false&include_all_commits=true&count_private=true" alt="Shreeja's GitHub Stats" /> -->
   <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
   <img src="https://nirzak-streak-stats.vercel.app/?user=ShreejaMandaloju&theme=transparent&hide_border=false" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreejaMandaloju&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" />
+  <!-- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ShreejaMandaloju&theme=transparent&hide_border=false&layout=compact" alt="Top Languages" /> -->
 </p>
 
 ---
